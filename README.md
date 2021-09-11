@@ -2,6 +2,7 @@
 
 ### Interests
 
+- Backend development
 - Game making
 - Digital drawing and design
 - Blockchain
