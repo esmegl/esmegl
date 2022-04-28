@@ -1,10 +1,10 @@
-### Junior Software Engineer
+### Software Developer
 
 ### Interests
 
-- Backend development
 - Game making
 - Digital drawing and design
+- Backend development
 - Blockchain
 - Machine Learning
 
