@@ -2,10 +2,10 @@
 
 ### Interests
 
-- Game making
-- Digital drawing and design
-- Backend development
 - Blockchain
-- Machine Learning
+- Web design
+- Artificial intelligence
+- Game making
+- Digital drawing 
 
 Visit my [Webpage](https://esmegl.github.io)
