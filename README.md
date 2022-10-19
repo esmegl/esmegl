@@ -6,6 +6,6 @@
 - Web design
 - Artificial intelligence
 - Game making
-- Digital drawing 
+- Digital drawing
 
-Visit my [Webpage](https://esmegl.github.io)
+Visit my [Webpage](https://esmegl.github.io/software-portfolio)
