@@ -2,9 +2,10 @@
 
 ### Interests
 
+- Cryptography
 - Blockchain
-- Web design
 - Artificial intelligence
+- Web design
 - Game making
 - Digital drawing
 
