@@ -8,6 +8,7 @@
 - Web design
 - Game making
 - Digital drawing
+- Designing
 
 Visit my [Webpage](https://esmegl.github.io/software-portfolio) \
 Visit mt [Art Portfolio](https://esmegl.github.io/art-portfolio) (not ready yet)
