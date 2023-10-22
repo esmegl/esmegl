@@ -1,6 +1,5 @@
-<p align="center"><a href="https://esmegl.github.io/software-portfolio"><img height=20 alt="Presentation" src="./assets/logo.svg" /></a></p>
+<p align="center"><a href="https://esmegl.github.io/software-portfolio"><img height=50 alt="Presentation" src="./assets/logo.svg" /></a></p>
 
-<br />
 
 ### About Me
 I am a Software Engineering student and programming enthusiast. <img height=10 alt="Presentation" src="./assets/uy_flag.svg" />
@@ -17,12 +16,14 @@ I am a Software Engineering student and programming enthusiast. <img height=10 a
 
 ### Interests
 
-- Cryptography
-- Blockchain
-- Artificial intelligence
-- Web design
-- Game making
-- Digital drawing
-- Designing
+<img height=20 alt="Cryptography" src="./assets/cryptography.png"> Cryptography </img>
 
-Visit my [Webpage](https://esmegl.github.io/software-portfolio)
+<img height=20 alt="Blockchain" src="./assets/blockchain.svg"> Blockchain</img>
+
+<img height=20 alt="Artificial Intelligence" src="./assets/ai.png"> Artificial Intelligence</img>
+
+<img height=20 alt="Web Design" src="./assets/web_design.png"> Web Design, check out my [Webpage](https://esmegl.github.io/software-portfolio) </img>
+
+<img height=20 alt="Game Making" src="./assets/game.svg"> Game Making </img>
+
+<img height=20 alt="Digital Drawing" src="./assets/ilustration.svg"> Digital Drawing </img>
