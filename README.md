@@ -1,6 +1,7 @@
 ### Software Developer
 
-![Esme's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmegl&show_icons=true&theme=tokyonight&hide=issues&show=prs_merged,prs_merged_percentage)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmegl&layout=compact&theme=tokyonight)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=esmegl&show_icons=true&rank_icon=github&themes=tokyonight&hide=issues&show=prs_merged,prs_merged_percentage&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Esmeralda's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmegl&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ### Interests
 
