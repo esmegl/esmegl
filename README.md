@@ -1,6 +1,6 @@
 ### Software Developer
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmegl&layout=compact)
+![Esme's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmegl&show_icons=true&theme=tokyonight&hide=issues&show=prs_merged,prs_merged_percentage)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmegl&layout=compact&theme=tokyonight)
 
 ### Interests
 
