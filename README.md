@@ -1,4 +1,8 @@
-### Software Developer
+<p align="center"><a href="https://esmegl.github.io/software-portfolio"><img height=20 alt="Presentation" src="./assets/logo.svg" /></a></p>
+
+<br />
+
+
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=esmegl&show_icons=true&rank_icon=github&themes=tokyonight&hide=issues&show=prs_merged,prs_merged_percentage&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Esmeralda's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmegl&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
