@@ -1,5 +1,7 @@
 ### Software Developer
 
+![Esme's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmegl&hide=contribs,prs)
+
 ### Interests
 
 - Cryptography
